@@ -1,0 +1,87 @@
+--------------------------------------------------------------
+Comapring All Classifiers...
+
+Bayes Net
+Test Size = 0.20, Total: 80, Match: 73, Accuracy: 91.25%
+
+Decision Tree
+Test Size = 0.20, Total: 80, Match: 68, Accuracy: 85.00%
+
+Support Vector Machine
+Test Size = 0.20, Total: 80, Match: 63, Accuracy: 78.75%
+
+Bayes Net classifier is the winner with accuracy 91.25%
+
+Classifier Used: Bayes Net
+Data Used--> Gender: Male, Age: 30, Estimated Salary: 89000
+Predicted Class: No
+
+Classifier Used: Support Vector Machine
+Data Used--> Gender: Female, Age: 45, Estimated Salary: 100000
+Predicted Class: No
+--------------------------------------------------------------
+--------------------------------------------------------------
+Comapring All Classifiers...
+
+Bayes Net
+Test Size = 0.20, Total: 80, Match: 73, Accuracy: 91.25%
+
+Decision Tree
+Test Size = 0.20, Total: 80, Match: 68, Accuracy: 85.00%
+
+Support Vector Machine
+Test Size = 0.20, Total: 80, Match: 63, Accuracy: 78.75%
+
+Bayes Net classifier is the winner with accuracy 91.25%
+
+Classifier Used: Decision Tree
+Data Used--> Gender: Female, Age: 27, Estimated Salary: 84000
+Predicted Class: No
+
+Classifier Used: Support Vector Machine
+Data Used--> Gender: Female, Age: 27, Estimated Salary: 84000
+Predicted Class: No
+
+Classifier Used: Bayes Net
+Data Used--> Gender: Male, Age: 67, Estimated Salary: 10900
+Predicted Class: Yes
+--------------------------------------------------------------
+Comapring All Classifiers...
+
+Bayes Net
+Test Size = 0.20, Total: 80, Match: 73, Accuracy: 91.25%
+
+Decision Tree
+Test Size = 0.20, Total: 80, Match: 68, Accuracy: 85.00%
+
+Support Vector Machine
+Test Size = 0.20, Total: 80, Match: 63, Accuracy: 78.75%
+
+Bayes Net classifier is the winner with accuracy 91.25%
+--------------------------------------------------------------
+--------------------------------------------------------------
+Comapring All Classifiers...
+
+Bayes Net
+Test Size = 0.20, Total: 80, Match: 73, Accuracy: 91.25%
+
+Decision Tree
+Test Size = 0.20, Total: 80, Match: 68, Accuracy: 85.00%
+
+Support Vector Machine
+Test Size = 0.20, Total: 80, Match: 63, Accuracy: 78.75%
+
+Bayes Net classifier is the winner with accuracy 91.25%
+--------------------------------------------------------------
+Comapring All Classifiers...
+
+Bayes Net
+Test Size = 0.20, Total: 80, Match: 73, Accuracy: 91.25%
+
+Decision Tree
+Test Size = 0.20, Total: 80, Match: 68, Accuracy: 85.00%
+
+Support Vector Machine
+Test Size = 0.20, Total: 80, Match: 63, Accuracy: 78.75%
+
+Bayes Net classifier is the winner with accuracy 91.25%
